@@ -1,0 +1,16 @@
+<TextCorrectedBlock pageOID="AL19090827.1.1" blockID="P1_TB00005" userID="[redacted]">
+  <TextCorrectedLine lineID="P1_TL00031">
+    <OldTextValue>Hotel JArrivals</OldTextValue>
+    <NewTextValue>Hotel Arrivals</NewTextValue>
+  </TextCorrectedLine>
+</TextCorrectedBlock>
+<TextCorrectedBlock pageOID="AL19090827.1.1" blockID="P1_TB00027" userID="[redacted]">
+  <TextCorrectedLine lineID="P1_TL00290">
+    <OldTextValue>Smith, .liimcHtnwu ; Il'AI I ' A Werly, De-</OldTextValue>
+    <NewTextValue>Smith, Jamestown; F A Werly, De-</NewTextValue>
+  </TextCorrectedLine>
+  <TextCorrectedLine lineID="P1_TL00291">
+    <OldTextValue>fender; Max Krugoll, Fruitrale.</OldTextValue>
+    <NewTextValue>fender; Max Krugell, Fruitvale.</NewTextValue>
+  </TextCorrectedLine>
+</TextCorrectedBlock>
